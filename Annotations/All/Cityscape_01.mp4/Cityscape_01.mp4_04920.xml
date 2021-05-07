@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Cityscape_01.mp4/Cityscape_01.mp4_04920.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>1061</xmin>
+      <ymin>568</ymin>
+      <xmax>1140</xmax>
+      <ymax>634</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>595</xmin>
+      <ymin>552</ymin>
+      <xmax>788</xmax>
+      <ymax>696</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>920</xmin>
+      <ymin>568</ymin>
+      <xmax>1036</xmax>
+      <ymax>676</ymax>
+    </bndbox>
+  </object>
+</annotation>
