@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Cityscape_03.mp4/Cityscape_03.mp4_01547.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian</name>
+    <bndbox>
+      <xmin>988</xmin>
+      <ymin>698</ymin>
+      <xmax>1009</xmax>
+      <ymax>749</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>790</xmin>
+      <ymin>710</ymin>
+      <xmax>822</xmax>
+      <ymax>737</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <bndbox>
+      <xmin>1017</xmin>
+      <ymin>693</ymin>
+      <xmax>1054</xmax>
+      <ymax>751</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>297</xmin>
+      <ymin>641</ymin>
+      <xmax>684</xmax>
+      <ymax>885</ymax>
+    </bndbox>
+  </object>
+</annotation>
