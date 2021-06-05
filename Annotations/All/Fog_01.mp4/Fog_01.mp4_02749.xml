@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Fog_01.mp4/Fog_01.mp4_02749.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>190</xmin>
+      <ymin>603</ymin>
+      <xmax>424</xmax>
+      <ymax>795</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <bndbox>
+      <xmin>1181</xmin>
+      <ymin>577</ymin>
+      <xmax>1375</xmax>
+      <ymax>952</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <bndbox>
+      <xmin>1320</xmin>
+      <ymin>574</ymin>
+      <xmax>1451</xmax>
+      <ymax>882</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <bndbox>
+      <xmin>1804</xmin>
+      <ymin>477</ymin>
+      <xmax>1920</xmax>
+      <ymax>1080</ymax>
+    </bndbox>
+  </object>
+</annotation>

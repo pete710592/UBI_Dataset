@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Fog_01.mp4/Fog_01.mp4_00692.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>1205</xmin>
+      <ymin>553</ymin>
+      <xmax>1701</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>507</xmin>
+      <ymin>618</ymin>
+      <xmax>644</xmax>
+      <ymax>717</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>1205</xmin>
+      <ymin>553</ymin>
+      <xmax>1701</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+</annotation>
