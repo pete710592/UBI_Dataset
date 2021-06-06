@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Rainy_01.mp4/Rainy_01.mp4_00510.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>1575</xmin>
+      <ymin>278</ymin>
+      <xmax>1873</xmax>
+      <ymax>406</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>1680</xmin>
+      <ymin>280</ymin>
+      <xmax>1899</xmax>
+      <ymax>422</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>914</xmin>
+      <ymin>277</ymin>
+      <xmax>1006</xmax>
+      <ymax>321</ymax>
+    </bndbox>
+  </object>
+</annotation>

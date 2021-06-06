@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>All/Rainy_01.mp4/Rainy_01.mp4_00238.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle</name>
+    <bndbox>
+      <xmin>574</xmin>
+      <ymin>293</ymin>
+      <xmax>637</xmax>
+      <ymax>337</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rider</name>
+    <bndbox>
+      <xmin>1735</xmin>
+      <ymin>294</ymin>
+      <xmax>1834</xmax>
+      <ymax>414</ymax>
+    </bndbox>
+  </object>
+</annotation>
